@@ -1,0 +1,4 @@
+last = ord('d')
+one = int(last/last)
+for i in range(one,last+1):
+    print(i,end=',')
